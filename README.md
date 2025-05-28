@@ -1,16 +1,21 @@
-# GitHub Pages
-
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
-
-Hey @Ademide-ux!
-
-Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
-
-Remember, it's self-paced so feel free to take a break! ☕️
-
-[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/Ademide-ux/My-dropshipingstore/issues/1)
-
----
-
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Velisse - Fashion & Beauty</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="icon" href="favicon.png" type="image/png" />
+</head>
+<body>
+  <header>
+    <h1>Velisse</h1>
+    <nav>
+      <span>Timeless Fashion. Effortless Beauty.</span>
+      <div id="cart-icon">🛒 Cart (<span id="cart-count">0</span>)</div>
+    </nav>
+  </header>  <main id="product-container">
+    <!-- Products load here -->
+  </main>  <footer>
+    <p>&copy; 2025 Velisse. All rights reserved.</p>
+  </footer>  <script src="script.js"></script></body>
+</html>
